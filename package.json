@@ -1,0 +1,29 @@
+{
+  "name": "bharatfd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^44.1.0",
+    "@ckeditor/ckeditor5-react": "^9.4.0",
+    "axios": "^1.7.9",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "google-translate-api": "^2.3.0",
+    "mongoose": "^8.9.6",
+    "redis": "^4.7.0"
+  },
+  "devDependencies": {
+    "chai": "^5.1.2",
+    "chai-http": "^5.1.1",
+    "mocha": "^11.1.0",
+    "nodemon": "^3.1.9"
+  }
+}
